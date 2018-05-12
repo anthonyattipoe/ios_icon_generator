@@ -4,8 +4,8 @@ This is a Python script to generate icons for various devices for iOS developers
 
 ### Python Library Prerequisites
 
-[Python Imaging Library](https://pillow.readthedocs.io/)
-[Python Image Resizing Library](https://pypi.org/project/python-resize-image)
+* [Python Imaging Library](https://pillow.readthedocs.io/)
+* [Python Image Resizing Library](https://pypi.org/project/python-resize-image)
 
 ### Installing
 
